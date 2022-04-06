@@ -48,7 +48,7 @@
                             "Format": "CSV",
                             "Prefix": "InventoryDestinationPrefix"
                         },
-                        "Enabled": false,
+                        "Enabled": true,
                         "IncludedObjectVersions": "Current",
                         "Prefix": "InventoryConfigurationPrefix",
                         "ScheduleFrequency": "Weekly"
